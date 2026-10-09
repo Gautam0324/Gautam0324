@@ -1,16 +1,106 @@
-# 💫 About Me:
-👨‍💻 I’m currently working on:<br>Full-stack web development projects using React, Node.js, MySQL, and Python, along with admin panels and automation tools.<br><br>🤝 I’m looking to collaborate on:<br>Web applications, dashboards, automation systems, and real-world problem-solving projects.<br><br>🛠️ I’m looking for help with:<br>System architecture improvements, performance optimization, and best practices for scalable applications.<br><br>🌱 I’m currently learning:<br>Advanced JavaScript, backend optimization, system design, and modern UI/UX patterns.<br><br>💬 Ask me about:<br>Full-stack development, automation scripts, database design, admin panels, and project structuring.<br><br>⚡ Fun fact:<br>I enjoy turning complex requirements into clean, working solutions and love debugging
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Gautam Sharma ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gautam_145_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Gautam Sharma](https://www.linkedin.com/in/gautam-sharma-9774a4253/) ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Gautam Sharma ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sgautamsharma146@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gautam0324&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Gautam0324&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<!-- HERO -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,50:164E63,100:7C3AED&text=Gautam%20Sharma&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Technical%20Manager&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Gautam Sharma — Developer"/>
+
+<a href="https://github.com/Gautam0324">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+products+that+solve+real+problems;Full-Stack+Development+%7C+Automation;React+%7C+Node.js+%7C+Python+%7C+MySQL;Turning+ideas+into+working+software" alt="Animated introduction"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Gautam0324?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Projects-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+</a>
+<a href="mailto:sgautamsharma146@gmail.com">
+  <img src="https://img.shields.io/badge/Let's%20Connect-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
+</a>
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm a software developer focused on building modern web applications, scalable dashboards, automation systems, and practical digital products.
+
+- 💻 **Building:** Full-stack applications, admin panels, APIs, and automation tools.
+- ⚙️ **Working with:** React, Node.js, Python, MySQL, and modern web technologies.
+- 🧠 **Interested in:** System architecture, backend engineering, performance, and UI/UX.
+- 🤝 **Open to:** Interesting collaborations, challenging projects, and knowledge sharing.
+- ⚡ **My approach:** Write clean code, solve the real problem, and keep improving.
+
+> *"Great software isn't just built to work. It's built to make a difference."*
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend technologies"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,fastapi,mysql,mongodb&theme=dark" alt="Backend and database technologies"/>
+
+**Tools & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,cloudflare,vercel,figma,docker&theme=dark" alt="Development tools and infrastructure"/>
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Gautam0324?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gautam0324&repo=REPLACE_WITH_PROJECT_1&theme=tokyonight&hide_border=true" width="48%" alt="Featured project one"/>
+</a>
+<a href="https://github.com/Gautam0324?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gautam0324&repo=REPLACE_WITH_PROJECT_2&theme=tokyonight&hide_border=true" width="48%" alt="Featured project two"/>
+</a>
+
+</div>
+
+Explore more of my work in [my repositories](https://github.com/Gautam0324?tab=repositories).
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gautam0324&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam0324&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Gautam0324&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak"/>
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gautam-sharma-9774a4253/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/gautam_145_/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:sgautamsharma146@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Gautam0324&style=flat-square&color=06B6D4&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:09090B&height=100&section=footer" width="100%" alt="Footer"/>
+
