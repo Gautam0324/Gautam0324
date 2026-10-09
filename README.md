@@ -266,11 +266,6 @@ $ curl -s https://api.gautam.dev/status
 <!-- Live Contribution Streak Meter -->
 <img width="85%" src="https://streak-stats.demolab.com?user=Gautam0324&theme=tokyonight&hide_border=true&background=030712&ring=00F2FE&fire=F472B6&currStreakLabel=00F2FE&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="Streak Stats"/>
 
-<br/><br/>
-
-<!-- Real-Time Activity Contribution Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gautam0324&bg_color=030712&color=94A3B8&line=00F2FE&point=A78BFA&area=true&hide_border=true&custom_title=System%20Contribution%20Matrix" alt="GitHub Activity Graph"/>
-
 </div>
 
 <br/>
