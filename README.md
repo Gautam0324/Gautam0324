@@ -1,222 +1,233 @@
-<!-- ═══════════════════════ HERO ═══════════════════════ -->
-
+<!-- ═══════════════════════ HERO HEADER ═══════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0F172A,70:164E63,100:7C3AED&text=GAUTAM%20SHARMA&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descSize=16&descAlignY=58&animation=fadeIn" alt="Gautam Sharma developer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090D16,30:0F172A,65:0284C7,100:6366F1&text=Gautam%20Sharma&fontColor=F8FAFC&fontSize=56&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Technical%20Manager%20%E2%80%A2%20Problem%20Solver&descSize=17&descAlignY=58&animation=fadeIn" alt="Gautam Sharma Banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=800&lines=Turning+Ideas+Into+Digital+Products;Building+Modern+Web+Applications;Automating+The+Things+That+Matter;React+%2B+Node.js+%2B+Python+%2B+MySQL;Think+%E2%80%A2+Build+%E2%80%A2+Ship+%E2%80%A2+Repeat" alt="Animated developer tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Architecting+Scalable+Web+Applications;%F0%9F%A7%A9+Crafting+High-Performance+APIs+%26+Backends;%F0%9F%9A%80+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+MySQL;%F0%9F%9B%A0%EF%B8%8F+Automating+Workflows+%26+Building+SaaS+Products;Think+Deeply+%E2%80%A2+Build+Cleanly+%E2%80%A2+Ship+Rapidly" alt="Typing Tagline"/>
 
 <br/><br/>
 
+<!-- Quick Connect & Explore Badges -->
 <a href="https://github.com/Gautam0324?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=020617" alt="Explore projects"/>
+  <img src="https://img.shields.io/badge/Repositories-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=020617" alt="Repositories"/>
+</a>
+<a href="https://techminds4u.in" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=818CF8&labelColor=020617" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/gautam-sharma-9774a4253/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=020617" alt="LinkedIn"/>
 </a>
 <a href="mailto:sgautamsharma146@gmail.com">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-0F172A?style=for-the-badge&logo=gmail&logoColor=F472B6&labelColor=020617" alt="Contact"/>
-</a>
-<a href="https://www.linkedin.com/in/gautam-sharma-9774a4253/">
-<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=020617" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=020617" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Gautam0324&style=for-the-badge&color=0891B2&label=PROFILE+VISITORS" alt="Profile visitors"/>
+<!-- Visitor Counter Badge -->
+<img src="https://komarev.com/ghpvc/?username=Gautam0324&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════ TERMINAL ═══════════════════════ -->
+<!-- ═══════════════════════ ABOUT ME & STATS ═══════════════════════ -->
 
-## `01` — The Developer Behind the Code
+## 👨‍💻 `01` // About Me
 
 <div align="center">
 
 <table>
 <tr>
-<td width="100%">
+<td width="55%" valign="top">
 
-```yaml
-developer:
-  name: Gautam Sharma
-  role: Full-Stack Developer
-  focus:
-    - Web Applications
-    - SaaS & Admin Dashboards
-    - Automation Systems
-    - Backend Engineering
-
-currently_building:
-  frontend: React, Next.js, TypeScript
-  backend: Node.js, Python, Flask
-  database: MySQL, MongoDB
-
-mindset: "Build useful things. Keep improving."
-status: "Open to interesting collaborations"
+```typescript
+interface Developer {
+  name: "Gautam Sharma";
+  role: "Full-Stack Developer & Technical Manager";
+  location: "India";
+  coreStack: ["React", "Next.js", "Node.js", "Python", "MySQL"];
+  focusAreas: [
+    "High-Performance Web Applications",
+    "SaaS Architecture & Admin Dashboards",
+    "Automation Scripts & Workflow Tools",
+    "Database Optimization & API Engineering"
+  ];
+  mindset: "Write clean code, automate everything, deliver real value.";
+  availability: "Open to High-Impact Collaborations & Opportunities 🚀";
+}
 ```
+
+</td>
+<td width="45%" valign="middle" align="center">
+
+### 🎯 **Quick Highlights**
+- 🔭 **Building:** Modern SaaS solutions, automation engines & admin portals
+- 💼 **Leading:** Tech management & full-stack development teams
+- 💡 **Passionate about:** Scalable architecture, clean UI/UX & performance
+- 💬 **Ask me about:** React, Node.js, Python, Flask, MySQL, DevOps
+- ⚡ **Fun fact:** I enjoy refactoring complex legacy code into sleek modules
 
 </td>
 </tr>
 </table>
 
 </div>
-
-I'm passionate about transforming complex requirements into clean, practical software. My work spans full-stack applications, database-driven platforms, automation tools, and management dashboards.
-
-- ⚡ **Build:** Products that solve real operational problems.
-- 🧩 **Engineer:** APIs, backend services, and database workflows.
-- 🎨 **Design:** Clean interfaces with thoughtful user experiences.
-- 🚀 **Improve:** Performance, architecture, maintainability, and scalability.
-- 🤝 **Collaborate:** On meaningful products and challenging technical problems.
-
-> *“Make it work. Make it right. Make it better.”*
 
 ---
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
-## `02` — My Engineering Arsenal
+## 🛠️ `02` // Tech Stack & Engineering Arsenal
 
 <div align="center">
 
-### ◈ FRONTEND ENGINEERING
+### ◈ Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux&theme=dark" alt="Frontend tools"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend tools"/>
+### ◈ Backend, APIs & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,fastapi,mysql,mongodb,postgres&theme=dark" alt="Backend tools"/>
+</p>
 
-### ◈ BACKEND & DATABASE SYSTEMS
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,fastapi,mysql,mongodb&theme=dark" alt="Backend tools"/>
-
-### ◈ TOOLS, CLOUD & WORKFLOW
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,cloudflare,vercel,figma&theme=dark" alt="Development tools"/>
+### ◈ Cloud, DevOps & Workflow Tooling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,cloudflare,vercel,postman,figma&theme=dark" alt="Cloud & Tools"/>
+</p>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 
-## `03` — Selected Projects
-
-<div align="center">
-
-<a href="https://github.com/Gautam0324?tab=repositories">
-<img src="https://img.shields.io/badge/01-EXPLORE%20ALL%20REPOSITORIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
-</a>
-
-</div>
+## 🚀 `03` // Featured Projects & Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web Applications
+### 🌐 **TechMinds4U**
+> *Training & courses platform with intuitive UI, student dashboard, and automated course management workflows.*
 
-**Modern interfaces. Useful products.**
-
-React, Next.js, TypeScript, responsive design, and API-driven experiences.
-
-<a href="https://github.com/Gautam0324?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-020617?style=flat-square&logo=github&logoColor=22D3EE" alt="View source"/>
-</a>
+- **Tech:** Next.js, React, Tailwind CSS, Node.js, MySQL
+- 🔗 **[Explore Live Demo](https://techminds4u.in)**
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Automation Systems
+### 🌍 **EuropeanTales**
+> *Multi-language content & travel magazine with geo-redirection, dynamic CMS features, and custom admin controls.*
 
-**Less repetitive work. More useful outcomes.**
-
-Python scripts, browser automation, integrations, and workflow tooling.
-
-<a href="https://github.com/Gautam0324?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-020617?style=flat-square&logo=github&logoColor=A78BFA" alt="View source"/>
-</a>
+- **Tech:** React, Next.js, Node.js, Express, MySQL
+- 🔗 **[View Repository](https://github.com/Gautam0324?tab=repositories)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Admin Dashboards
+### ⚙️ **Click Automation System**
+> *Centralized multi-PC desktop and web click automation suite with live monitoring and queue management.*
 
-**Data organized for better decisions.**
-
-Management panels, authentication, database operations, and reporting interfaces.
-
-<a href="https://github.com/Gautam0324?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-020617?style=flat-square&logo=github&logoColor=34D399" alt="View source"/>
-</a>
+- **Tech:** Python, Flask, Selenium, MySQL, WebSockets
+- 🔗 **[View Repository](https://github.com/Gautam0324?tab=repositories)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🗄️ Backend Engineering
+### 📊 **Trading Dashboard & Market Analytics**
+> *Real-time financial analytics dashboard with NSE feed integration, interactive charting, and indicator alerts.*
 
-**Reliable logic behind the interface.**
-
-REST APIs, database schemas, backend services, and application architecture.
-
-<a href="https://github.com/Gautam0324?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-020617?style=flat-square&logo=github&logoColor=FBBF24" alt="View source"/>
-</a>
+- **Tech:** React, TypeScript, Python, Plotly, WebSockets
+- 🔗 **[View Repository](https://github.com/Gautam0324?tab=repositories)**
 
 </td>
 </tr>
 </table>
 
-> **Personalize this section:** Replace these categories with your actual project names, repository URLs, screenshots, and live demos. This avoids displaying invented project cards.
+<div align="center">
+  <a href="https://github.com/Gautam0324?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View all repos"/>
+  </a>
+</div>
+
+<br/>
 
 ---
 
 <!-- ═══════════════════════ GITHUB METRICS ═══════════════════════ -->
 
-## `04` — GitHub Command Center
+## 📊 `04` // GitHub Activity & Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gautam0324&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&icon_color=A78BFA&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam0324&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1" alt="Most used programming languages"/>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Gautam0324&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=38BDF8&text_color=94A3B8&icon_color=818CF8&rank_icon=github" alt="GitHub Stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam0324&layout=compact&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=38BDF8&text_color=94A3B8" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Contribution Streak -->
+<img width="85%" src="https://streak-stats.demolab.com?user=Gautam0324&theme=tokyonight&hide_border=true&background=090D16&ring=38BDF8&fire=F472B6&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Gautam0324&hide_border=true&background=020617&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gautam0324&bg_color=020617&color=CBD5E1&line=22D3EE&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph"/>
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gautam0324&bg_color=090D16&color=94A3B8&line=38BDF8&point=818CF8&area=true&hide_border=true&custom_title=Contribution%20Commit%20Activity" alt="Activity Graph"/>
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+<!-- ═══════════════════════ GET IN TOUCH ═══════════════════════ -->
 
-## `05` — Let's Build Something Great
+## 🤝 `05` // Let's Connect & Collaborate
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Have+an+interesting+idea%3F;Let's+turn+it+into+something+real.;Good+projects+start+with+a+conversation." alt="Collaboration tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=818CF8&center=true&vCenter=true&width=680&lines=Have+a+project+in+mind%3F+Let's+build+it+together.;Open+for+freelance%2C+consulting%2C+and+full-time+roles.;Great+products+start+with+a+single+message." alt="Footer tagline"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/gautam-sharma-9774a4253/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/gautam_145_/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:sgautamsharma146@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gautam-sharma-9774a4253/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sgautamsharma146@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://techminds4u.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_Site-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/gautam_145_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
-<br/><br/>
+<br/>
 
-**CODE WITH PURPOSE · BUILD WITH CURIOSITY · SHIP WITH CONFIDENCE**
+**`BUILD WITH PURPOSE` • `CODE WITH CLARITY` • `SHIP WITH CONFIDENCE`**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:164E63,100:020617" alt="Profile footer"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6366F1,50:0284C7,100:090D16" alt="Footer wave"/>
 
 </div>
